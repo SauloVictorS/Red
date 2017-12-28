@@ -1,5 +1,5 @@
 ========================
-Contador - Release Notes
+Red - Release Notes
 ========================
 
 Features Flags
@@ -14,12 +14,12 @@ Features Flags
 > 10/05/2016
 ----------------------------------------------------------
 
-[!] O programa agora emite uma notificaÁ„o quando a diferenÁa de 
+[!] O programa agora emite uma notifica√ß√£o quando a diferen√ßa de 
     valores inseridos e soma das notas calculadas for maior que 0.01 (Um
-    centavo). Antes a diferenÁa era de 0.05 (Cinco centavos).
+    centavo). Antes a diferen√ßa era de 0.05 (Cinco centavos).
 
 [!] O valor Total exibido no arquivo e na tela resultado agora possui
-    duas casas decimais por padr„o. Antes o valor poderia assumir apenas
+    duas casas decimais por padr√£o. Antes o valor poderia assumir apenas
     uma casa decimal ou mais de duas caso o reultado fosse este.
 
 [+] O arquivo gerado para o Baco agora exibe o valor Total da soma.
@@ -42,24 +42,24 @@ Features Flags
 
 [+] Uma barre de menus foi adicionada
 
-[+] A partir desta vers„o, o software gera um arquivo de log, onde ficam
-    armazenadas todas as transaÁıes geradas.
+[+] A partir desta vers√£o, o software gera um arquivo de log, onde ficam
+    armazenadas todas as transa√ß√µes geradas.
 
-[!] O relatÛrio gerado pelo programa agora È exibido em PDF com uma aparÍncia
-    mais limpa e organizada que na vers„o anterior, onde o relatÛrio era 
+[!] O relat√≥rio gerado pelo programa agora √© exibido em PDF com uma apar√™ncia
+    mais limpa e organizada que na vers√£o anterior, onde o relat√≥rio era 
     exibido em txt.
 
-[!] Foram feitas algumas alteraÁıes em relaÁ„o ‡ interface do programa.
+[!] Foram feitas algumas altera√ß√µes em rela√ß√£o √† interface do programa.
 
-[!] Foram feitas grandes alteraÁıes no motor do programa. O programa passa
-    a trabalhar com valores do tipo BigDecimal, que È mais preciso e 
-    recomendado para esta funÁ„o, dando ao programa mais confiabilidade.
-    A vers„o anterior trabalhava com Double, que n„o tinha a precis„o
+[!] Foram feitas grandes altera√ß√µes no motor do programa. O programa passa
+    a trabalhar com valores do tipo BigDecimal, que √© mais preciso e 
+    recomendado para esta fun√ß√£o, dando ao programa mais confiabilidade.
+    A vers√£o anterior trabalhava com Double, que n√£o tinha a precis√£o
     recomendada para o software.
 
-[-] O bot„o "sobre" foi removido.
+[-] O bot√£o "sobre" foi removido.
 
-[-] A janela que era exibida sempre ao gerar o relatÛrio, com informaÁıes
+[-] A janela que era exibida sempre ao gerar o relat√≥rio, com informa√ß√µes
     redundantes sobre a quantidade de notas e moedas foi removida.
 
 
