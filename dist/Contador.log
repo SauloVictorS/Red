@@ -1,0 +1,41 @@
+
+[17/01/2017 - 10:49:51] |Moedas ++| |Versão: 1.1| Iniciado
+[17/01/2017 - 10:49:54] Valores inseridos a serem calculados: 15, 
+[17/01/2017 - 10:49:54] TOTAL: R$15,00 |Total da soma das moedas: R$15 |Notas: R$100,00:0  R$50,00:0  R$20,00:0  R$10,00:1  R$5,00:1  R$2,00:0 | Moedas: R$1,00:0  R$0,50:0  R$0,25:0  R$0,10:0  R$0,05:0 |INFO: Dados conferidos e OK. |Total CompareTo confereSoma: 0
+[17/01/2017 - 10:49:55] FileNotFoundException | Falha ao gerar PDF. O arquivo pode estar sendo usado por outro programa!  
+
+[17/01/2017 - 12:16:28] |Moedas ++| |Versão: 1.1| Iniciado
+
+[17/01/2017 - 12:17:56] |Moedas ++| |Versão: 1.1| Iniciado
+[17/01/2017 - 12:24:55] Valores inseridos a serem calculados: 789, 78, 15, 12, 10.5, 10.1, 10.5, 10.1, 151, 
+[17/01/2017 - 12:24:55] TOTAL: R$1086,20 |Total da soma das moedas: R$1086.200000000000000011102230246251565404236316680908203125 |Notas: R$100,00:8  R$50,00:3  R$20,00:2  R$10,00:7  R$5,00:3  R$2,00:4 | Moedas: R$1,00:2  R$0,50:2  R$0,25:0  R$0,10:2  R$0,05:0 |INFO: Dados conferidos e OK. |Total CompareTo confereSoma: -1
+
+[17/01/2017 - 20:26:45] |Moedas ++| |Versão: 1.1| Iniciado
+
+[17/01/2017 - 20:26:49] |Moedas ++| |Versão: 1.1| Iniciado
+[17/01/2017 - 20:28:39] Valores inseridos a serem calculados: 185, 147, 125, 105.15, 10.1, 10.05, 18, 
+[17/01/2017 - 20:28:40] TOTAL: R$600,30 |Total da soma das moedas: R$600.3000000000000000166533453693773481063544750213623046875 |Notas: R$100,00:4  R$50,00:1  R$20,00:4  R$10,00:4  R$5,00:5  R$2,00:2 | Moedas: R$1,00:1  R$0,50:0  R$0,25:0  R$0,10:2  R$0,05:2 |INFO: Dados conferidos e OK. |Total CompareTo confereSoma: -1
+[17/01/2017 - 20:29:18] Valores inseridos a serem calculados: 185, 147, 125, 105.15, 10.1, 10.05, 18, 
+[17/01/2017 - 20:29:18] TOTAL: R$600,30 |Total da soma das moedas: R$600.3000000000000000166533453693773481063544750213623046875 |Notas: R$100,00:4  R$50,00:1  R$20,00:4  R$10,00:4  R$5,00:5  R$2,00:2 | Moedas: R$1,00:1  R$0,50:0  R$0,25:0  R$0,10:2  R$0,05:2 |INFO: Dados conferidos e OK. |Total CompareTo confereSoma: -1
+[17/01/2017 - 20:30:24] Valores inseridos a serem calculados: 185, 147, 125, 105.15, 10.1, 10.05, 18, 
+[17/01/2017 - 20:30:24] TOTAL: R$600,30 |Total da soma das moedas: R$600.3000000000000000166533453693773481063544750213623046875 |Notas: R$100,00:4  R$50,00:1  R$20,00:4  R$10,00:4  R$5,00:5  R$2,00:2 | Moedas: R$1,00:1  R$0,50:0  R$0,25:0  R$0,10:2  R$0,05:2 |INFO: Dados conferidos e OK. |Total CompareTo confereSoma: -1
+[17/01/2017 - 20:31:42] Valores inseridos a serem calculados: 185, 147, 125, 105.15, 10.1, 10.05, 18, 
+[17/01/2017 - 20:31:42] TOTAL: R$600,30 |Total da soma das moedas: R$600.3000000000000000166533453693773481063544750213623046875 |Notas: R$100,00:4  R$50,00:1  R$20,00:4  R$10,00:4  R$5,00:5  R$2,00:2 | Moedas: R$1,00:1  R$0,50:0  R$0,25:0  R$0,10:2  R$0,05:2 |INFO: Dados conferidos e OK. |Total CompareTo confereSoma: -1
+[17/01/2017 - 20:32:01] Valores inseridos a serem calculados: 185, 147, 125, 105.15, 10.1, 10.05, 18, 180, 
+[17/01/2017 - 20:32:01] TOTAL: R$780,30 |Total da soma das moedas: R$780.3000000000000000166533453693773481063544750213623046875 |Notas: R$100,00:5  R$50,00:2  R$20,00:5  R$10,00:5  R$5,00:5  R$2,00:2 | Moedas: R$1,00:1  R$0,50:0  R$0,25:0  R$0,10:2  R$0,05:2 |INFO: Dados conferidos e OK. |Total CompareTo confereSoma: -1
+[17/01/2017 - 20:32:14] Valores inseridos a serem calculados: 10.05, 
+[17/01/2017 - 20:32:14] TOTAL: R$10,05 |Total da soma das moedas: R$10.05000000000000000277555756156289135105907917022705078125 |Notas: R$100,00:0  R$50,00:0  R$20,00:0  R$10,00:1  R$5,00:0  R$2,00:0 | Moedas: R$1,00:0  R$0,50:0  R$0,25:0  R$0,10:0  R$0,05:1 |INFO: Dados conferidos e OK. |Total CompareTo confereSoma: -1
+[17/01/2017 - 20:32:14] FileNotFoundException | Falha ao gerar PDF. O arquivo pode estar sendo usado por outro programa!  
+[17/01/2017 - 20:32:27] Valores inseridos a serem calculados: 10.05, 
+[17/01/2017 - 20:32:27] TOTAL: R$10,05 |Total da soma das moedas: R$10.05000000000000000277555756156289135105907917022705078125 |Notas: R$100,00:0  R$50,00:0  R$20,00:0  R$10,00:1  R$5,00:0  R$2,00:0 | Moedas: R$1,00:0  R$0,50:0  R$0,25:0  R$0,10:0  R$0,05:1 |INFO: Dados conferidos e OK. |Total CompareTo confereSoma: -1
+[17/01/2017 - 20:32:58] Valores inseridos a serem calculados: 10.05, 141, 10.5, 10.85, 80, 105, 
+[17/01/2017 - 20:32:58] TOTAL: R$357,40 |Total da soma das moedas: R$357.40000000000000000832667268468867405317723751068115234375 |Notas: R$100,00:2  R$50,00:1  R$20,00:3  R$10,00:4  R$5,00:1  R$2,00:0 | Moedas: R$1,00:1  R$0,50:2  R$0,25:1  R$0,10:1  R$0,05:1 |INFO: Dados conferidos e OK. |Total CompareTo confereSoma: -1
+[17/01/2017 - 20:33:11] Valores inseridos a serem calculados: 10.05, 141, 10.5, 10.85, 80, 105, 
+[17/01/2017 - 20:33:11] TOTAL: R$357,40 |Total da soma das moedas: R$357.40000000000000000832667268468867405317723751068115234375 |Notas: R$100,00:2  R$50,00:1  R$20,00:3  R$10,00:4  R$5,00:1  R$2,00:0 | Moedas: R$1,00:1  R$0,50:2  R$0,25:1  R$0,10:1  R$0,05:1 |INFO: Dados conferidos e OK. |Total CompareTo confereSoma: -1
+[17/01/2017 - 20:34:14] Valores inseridos a serem calculados: 10, 
+[17/01/2017 - 20:34:14] TOTAL: R$10,00 |Total da soma das moedas: R$10 |Notas: R$100,00:0  R$50,00:0  R$20,00:0  R$10,00:1  R$5,00:0  R$2,00:0 | Moedas: R$1,00:0  R$0,50:0  R$0,25:0  R$0,10:0  R$0,05:0 |INFO: Dados conferidos e OK. |Total CompareTo confereSoma: 0
+[17/01/2017 - 20:34:23] Valores inseridos a serem calculados: 10, 10, 
+[17/01/2017 - 20:34:23] TOTAL: R$20,00 |Total da soma das moedas: R$20 |Notas: R$100,00:0  R$50,00:0  R$20,00:0  R$10,00:2  R$5,00:0  R$2,00:0 | Moedas: R$1,00:0  R$0,50:0  R$0,25:0  R$0,10:0  R$0,05:0 |INFO: Dados conferidos e OK. |Total CompareTo confereSoma: 0
+[17/01/2017 - 20:34:23] FileNotFoundException | Falha ao gerar PDF. O arquivo pode estar sendo usado por outro programa!  
+[17/01/2017 - 20:34:26] Valores inseridos a serem calculados: 10, 10, 
+[17/01/2017 - 20:34:26] TOTAL: R$20,00 |Total da soma das moedas: R$20 |Notas: R$100,00:0  R$50,00:0  R$20,00:0  R$10,00:2  R$5,00:0  R$2,00:0 | Moedas: R$1,00:0  R$0,50:0  R$0,25:0  R$0,10:0  R$0,05:0 |INFO: Dados conferidos e OK. |Total CompareTo confereSoma: 0

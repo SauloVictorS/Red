@@ -1,0 +1,87 @@
+========================
+Contador - Release Notes
+========================
+
+Features Flags
+--------------
+[+] New feature has been added
+[!] Feature has been improved
+[#] Feature has been fixed
+[-] Feature has been removed
+
+----------------------------------------------------------
+> 1.0.2
+> 10/05/2016
+----------------------------------------------------------
+
+[!] O programa agora emite uma notificação quando a diferença de 
+    valores inseridos e soma das notas calculadas for maior que 0.01 (Um
+    centavo). Antes a diferença era de 0.05 (Cinco centavos).
+
+[!] O valor Total exibido no arquivo e na tela resultado agora possui
+    duas casas decimais por padrão. Antes o valor poderia assumir apenas
+    uma casa decimal ou mais de duas caso o reultado fosse este.
+
+[+] O arquivo gerado para o Baco agora exibe o valor Total da soma.
+
+[!] A janela de resultado agora aparece no meio da tela. Antes era
+    exibida no canto superior esquerdo.
+
+[!] A janela principal agora inicia no meio da tela.
+
+[#] Corrigido a falha que imprimia notas de R10,00 no arquivo mesmo 
+    quando elas eram zeradas.
+
+
+----------------------------------------------------------
+> 1.1
+> 10/05/2016
+----------------------------------------------------------
+[+] Agora o programa exibe o valor total em tempo real logo abaixo ta tabela
+    de valores inseridos.
+
+[+] Uma barre de menus foi adicionada
+
+[+] A partir desta versão, o software gera um arquivo de log, onde ficam
+    armazenadas todas as transações geradas.
+
+[!] O relatório gerado pelo programa agora é exibido em PDF com uma aparência
+    mais limpa e organizada que na versão anterior, onde o relatório era 
+    exibido em txt.
+
+[!] Foram feitas algumas alterações em relação à interface do programa.
+
+[!] Foram feitas grandes alterações no motor do programa. O programa passa
+    a trabalhar com valores do tipo BigDecimal, que é mais preciso e 
+    recomendado para esta função, dando ao programa mais confiabilidade.
+    A versão anterior trabalhava com Double, que não tinha a precisão
+    recomendada para o software.
+
+[-] O botão "sobre" foi removido.
+
+[-] A janela que era exibida sempre ao gerar o relatório, com informações
+    redundantes sobre a quantidade de notas e moedas foi removida.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

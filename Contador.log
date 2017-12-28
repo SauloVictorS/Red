@@ -1,0 +1,55 @@
+
+[17/01/2017 - 07:32:14] |Moedas ++| |Versão: 1.1| Iniciado
+
+[17/01/2017 - 07:32:42] |Moedas ++| |Versão: 1.1| Iniciado
+
+[17/01/2017 - 07:34:33] |Moedas ++| |Versão: 1.1| Iniciado
+
+[17/01/2017 - 10:21:45] |Moedas ++| |Versão: 1.1| Iniciado
+
+[17/01/2017 - 10:21:53] |Moedas ++| |Versão: 1.1| Iniciado
+
+[17/01/2017 - 10:23:10] |Moedas ++| |Versão: 1.1| Iniciado
+
+[17/01/2017 - 10:43:44] |Moedas ++| |Versão: 1.1| Iniciado
+
+[17/01/2017 - 10:43:54] |Moedas ++| |Versão: 1.1| Iniciado
+
+[17/01/2017 - 10:45:35] |Moedas ++| |Versão: 1.1| Iniciado
+
+[03/02/2017 - 20:03:44] |Moedas ++| |Versão: 1.1| Iniciado
+[03/02/2017 - 20:04:52] Valores inseridos a serem calculados: 150, 80, 145.5, 
+[03/02/2017 - 20:04:52] TOTAL: R$375,50 |Total da soma das moedas: R$375.5 |Notas: R$100,00:2  R$50,00:2  R$20,00:3  R$10,00:1  R$5,00:1  R$2,00:0 | Moedas: R$1,00:0  R$0,50:1  R$0,25:0  R$0,10:0  R$0,05:0 |INFO: Dados conferidos e OK. |Total CompareTo confereSoma: 0
+[03/02/2017 - 20:06:25] Valores inseridos a serem calculados: 150, 80, 145.5, 
+[03/02/2017 - 20:06:25] TOTAL: R$375,50 |Total da soma das moedas: R$375.5 |Notas: R$100,00:2  R$50,00:2  R$20,00:3  R$10,00:1  R$5,00:1  R$2,00:0 | Moedas: R$1,00:0  R$0,50:1  R$0,25:0  R$0,10:0  R$0,05:0 |INFO: Dados conferidos e OK. |Total CompareTo confereSoma: 0
+
+[06/02/2017 - 21:00:57] |Moedas ++| |Versão: 1.1| Iniciado
+[06/02/2017 - 21:02:37] Valores inseridos a serem calculados: 50, 150, 10.5, 10.5, 10.2, 
+[06/02/2017 - 21:02:37] TOTAL: R$231,20 |Total da soma das moedas: R$231.200000000000000011102230246251565404236316680908203125 |Notas: R$100,00:1  R$50,00:2  R$20,00:0  R$10,00:3  R$5,00:0  R$2,00:0 | Moedas: R$1,00:0  R$0,50:2  R$0,25:0  R$0,10:2  R$0,05:0 |INFO: Dados conferidos e OK. |Total CompareTo confereSoma: -1
+[06/02/2017 - 21:03:19] NumberFormatException | O valor informado não se trata de um número. VALOR: df
+
+[20/03/2017 - 20:52:15] |Moedas ++| |Versão: 1.1| Iniciado
+[20/03/2017 - 20:53:00] Valores inseridos a serem calculados: 50, 150, 180, 25.40, 54.70, 
+[20/03/2017 - 20:53:00] TOTAL: R$460,10 |Total da soma das moedas: R$460.09999999999999999167332731531132594682276248931884765625 |Notas: R$100,00:2  R$50,00:4  R$20,00:2  R$10,00:1  R$5,00:1  R$2,00:2 | Moedas: R$1,00:0  R$0,50:1  R$0,25:1  R$0,10:3  R$0,05:1 |INFO: Dados conferidos e OK. |Total CompareTo confereSoma: 0
+[20/03/2017 - 20:53:42] NumberFormatException | O valor informado não se trata de um número. VALOR: sdfg
+
+[20/03/2017 - 20:56:25] |Moedas ++| |Versão: 1.1| Iniciado
+
+[20/03/2017 - 20:56:54] |Moedas ++| |Versão: 1.1| Iniciado
+
+[20/03/2017 - 20:57:51] |Moedas ++| |Versão: 1.1| Iniciado
+
+[25/06/2017 - 11:33:23] |Moedas ++| |Versão: 1.1| Iniciado
+[25/06/2017 - 11:33:28] NumberFormatException | O valor informado não se trata de um número. VALOR: dsgfdg
+[25/06/2017 - 11:33:32] NumberFormatException | O valor informado não se trata de um número. VALOR: w5345
+
+[25/06/2017 - 11:34:05] |Moedas ++| |Versão: 1.1| Iniciado
+[25/06/2017 - 11:35:02] NumberFormatException | O valor informado não se trata de um número. VALOR: 14814,,,
+[25/06/2017 - 11:35:12] NumberFormatException | O valor informado não se trata de um número. VALOR: 14814,1,1,1
+[25/06/2017 - 11:35:23] Valores inseridos a serem calculados: 1478, 10, 17, 15, 148, 147, 12, 1251, 1478, 15, 125, 15, 125, 14, 14, 13, 13.1, 12.0, 125.1, 1.15, 
+[25/06/2017 - 11:35:23] TOTAL: R$5028,35 |Total da soma das moedas: R$5028.34999999999999999167332731531132594682276248931884765625 |Notas: R$100,00:45  R$50,00:3  R$20,00:9  R$10,00:11  R$5,00:11  R$2,00:13 | Moedas: R$1,00:7  R$0,50:0  R$0,25:0  R$0,10:3  R$0,05:1 |INFO: Dados conferidos e OK. |Total CompareTo confereSoma: 0
+
+[25/06/2017 - 11:37:04] |Moedas ++| |Versão: 1.1| Iniciado
+[25/06/2017 - 11:37:10] NumberFormatException | O valor informado não se trata de um número. VALOR: asdsad
+
+[16/10/2017 - 20:25:02] |Moedas ++| |Versão: 1.1| Iniciado
